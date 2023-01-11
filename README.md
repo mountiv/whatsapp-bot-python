@@ -1,4 +1,4 @@
-# whatsapp-bot-python © 
+# whatsapp-bot-python
 
 WhatsApp Web Automation using Python
 
@@ -45,3 +45,6 @@ WhatsApp Web Automation using Python
 ● In line 39, type the name of the receiver in the p.typewrite("Name of receiver here\n") statement.
 
 ● I have added a few basic questions, keep on adding more. There's a lots to improve here, keep thinking and suggest edits. Happy developing and keep codes open source and help others to learn. 
+
+## License & Copyright 
+© lucky7123
