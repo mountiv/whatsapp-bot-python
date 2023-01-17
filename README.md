@@ -46,5 +46,5 @@ WhatsApp Web Automation using Python
 
 - I have added a few basic questions, keep on adding more. There's a lots to improve here, keep thinking and suggest edits. Happy developing and keep codes open source and help others to learn. 
 
-## License & Copyright 
-© lucky7123
+## Author 
+© me
